@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample5\bin\Debug\Sample5.exe.config
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample5\bin\Debug\Sample5.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample5\bin\Debug\Sample5.pdb
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample5\obj\Debug\Sample5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample5\obj\Debug\Sample5.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample5\obj\Debug\Sample5.pdb

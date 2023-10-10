@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\ThreadPoolSample\bin\Debug\ThreadPoolSample.exe.config
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\ThreadPoolSample\bin\Debug\ThreadPoolSample.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\ThreadPoolSample\bin\Debug\ThreadPoolSample.pdb
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\ThreadPoolSample\obj\Debug\ThreadPoolSample.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\ThreadPoolSample\obj\Debug\ThreadPoolSample.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\ThreadPoolSample\obj\Debug\ThreadPoolSample.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\ThreadPoolSample\obj\Debug\ThreadPoolSample.pdb

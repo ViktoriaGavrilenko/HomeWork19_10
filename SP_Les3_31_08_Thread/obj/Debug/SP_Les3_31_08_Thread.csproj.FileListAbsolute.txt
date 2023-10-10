@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread\bin\Debug\SP_Les3_31_08_Thread.exe.config
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread\bin\Debug\SP_Les3_31_08_Thread.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread\bin\Debug\SP_Les3_31_08_Thread.pdb
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread\obj\Debug\SP_Les3_31_08_Thread.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread\obj\Debug\SP_Les3_31_08_Thread.Form1.resources
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread\obj\Debug\SP_Les3_31_08_Thread.Properties.Resources.resources
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread\obj\Debug\SP_Les3_31_08_Thread.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread\obj\Debug\SP_Les3_31_08_Thread.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread\obj\Debug\SP_Les3_31_08_Thread.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread\obj\Debug\SP_Les3_31_08_Thread.pdb

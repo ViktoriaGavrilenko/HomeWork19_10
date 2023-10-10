@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Assinchron\obj\Debug\SP_Les3_31_08_Assinchron.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Assinchron\obj\Debug\SP_Les3_31_08_Assinchron.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Assinchron\bin\Debug\SP_Les3_31_08_Assinchron.exe.config
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Assinchron\bin\Debug\SP_Les3_31_08_Assinchron.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Assinchron\bin\Debug\SP_Les3_31_08_Assinchron.pdb
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Assinchron\obj\Debug\SP_Les3_31_08_Assinchron.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Assinchron\obj\Debug\SP_Les3_31_08_Assinchron.pdb

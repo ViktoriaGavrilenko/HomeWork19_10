@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample3\obj\Debug\Sample3.Form1.resources
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample3\obj\Debug\Sample3.Properties.Resources.resources
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample3\obj\Debug\Sample3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample3\obj\Debug\Sample3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample3\bin\Debug\Sample3.exe.config
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample3\bin\Debug\Sample3.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample3\bin\Debug\Sample3.pdb
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample3\obj\Debug\Sample3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample3\obj\Debug\Sample3.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample3\obj\Debug\Sample3.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample4\bin\Debug\Sample4.exe.config
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample4\bin\Debug\Sample4.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample4\bin\Debug\Sample4.pdb
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample4\obj\Debug\Sample4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample4\obj\Debug\Sample4.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample4\obj\Debug\Sample4.pdb
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Sample4\obj\Debug\Sample4.csproj.AssemblyReference.cache

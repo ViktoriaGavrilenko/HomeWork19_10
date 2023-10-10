@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Exam_Parallel\bin\Debug\Exam_Parallel.exe.config
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Exam_Parallel\bin\Debug\Exam_Parallel.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Exam_Parallel\bin\Debug\Exam_Parallel.pdb
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Exam_Parallel\obj\Debug\Exam_Parallel.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Exam_Parallel\obj\Debug\Exam_Parallel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Exam_Parallel\obj\Debug\Exam_Parallel.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\Exam_Parallel\obj\Debug\Exam_Parallel.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Exam\bin\Debug\SP_Exam.exe.config
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Exam\bin\Debug\SP_Exam.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Exam\bin\Debug\SP_Exam.pdb
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Exam\obj\Debug\SP_Exam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Exam\obj\Debug\SP_Exam.Form1.resources
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Exam\obj\Debug\SP_Exam.Properties.Resources.resources
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Exam\obj\Debug\SP_Exam.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Exam\obj\Debug\SP_Exam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Exam\obj\Debug\SP_Exam.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Exam\obj\Debug\SP_Exam.pdb

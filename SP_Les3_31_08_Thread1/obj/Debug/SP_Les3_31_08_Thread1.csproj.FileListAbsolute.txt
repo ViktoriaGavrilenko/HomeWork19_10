@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread1\obj\Debug\SP_Les3_31_08_Thread1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread1\bin\Debug\SP_Les3_31_08_Thread1.exe.config
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread1\bin\Debug\SP_Les3_31_08_Thread1.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread1\bin\Debug\SP_Les3_31_08_Thread1.pdb
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread1\obj\Debug\SP_Les3_31_08_Thread1.exe
+C:\Users\User\source\repos\SP_Les3_31_08_Assinchron\SP_Les3_31_08_Thread1\obj\Debug\SP_Les3_31_08_Thread1.pdb
